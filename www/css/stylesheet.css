@@ -233,7 +233,7 @@ a {
 }
 
 @media (max-width: 425px) {
-  .row {
+  .bg_banner .row {
     flex-flow: column-reverse;
   }
 }
